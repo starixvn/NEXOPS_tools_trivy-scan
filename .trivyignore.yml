@@ -1,2 +1,3 @@
 vulnerabilities:
   - id: CVE-2024-21386
+  - id: CVE-2024-21538 # node:20.18-alpine-25h1
