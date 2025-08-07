@@ -3,3 +3,4 @@ vulnerabilities:
   - id: CVE-2024-21538 # node:20.18-alpine-25h1
     path:
       - "/usr/local/lib/node_modules/npm/node_modules/cross-spawn/package.json"
+  - id: CVE-2025-26646 #dotnet/core/sdk:8.0-alpine
